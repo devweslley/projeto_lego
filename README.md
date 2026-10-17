@@ -56,7 +56,9 @@ A recorrência no catálogo não deve ser interpretada diretamente como sucesso 
 3. Execute as células na ordem apresentada, desde a preparação dos dados até a avaliação dos modelos.
 4. Consulte as tabelas, visualizações e interpretações registradas em cada etapa.
 
-**Notebook:** adicione aqui o link compartilhável do Google Colab.
+**Notebook no Google Colab:** [Abrir notebook do projeto](https://colab.research.google.com/drive/15SPnILMrp0J4J9tCG7paveWrZaFkfSfP)
+
+**Repositório GitHub:** https://github.com/devweslley/projeto_lego
 
 ## 8. Fonte dos dados
 
