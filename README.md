@@ -6,6 +6,13 @@ Este projeto foi desenvolvido como trabalho final da pós-graduação em Intelig
 
 O projeto percorre as etapas de obtenção e preparação dos dados, análise exploratória, engenharia de atributos, construção de modelos de Machine Learning e comunicação dos resultados.
 
+## Integrantes do grupo
+
+- Anderson Almeida Costa
+- Rafael de Sousa Camelo
+- Roberto Freires Batista
+- Wesley Rodrigues Silva
+  
 ## 2. Objetivo
 
 Investigar padrões nos conjuntos LEGO e avaliar se características disponíveis no lançamento ajudam a estimar a recorrência dos produtos no catálogo.
